@@ -25,7 +25,7 @@ The most common hard drive sizes are 0-128 GB and 128-256 GB.
 For GPU cores, most fall in the range of 0-2 cores. For CPU cores, the most common ranges are 2-4 cores and 4-6 cores.
 
 ## Operating System
-![](https://github.com/tribbens/r-studio-badge/blob/main/os.png)
+![](https://github.com/tribbens/jupyter-lab-badge/blob/main/os.png)
 
 For operating system, MacOS is easily the most common followed by Windows. Linux was a distant third. I found this result surprising given how prevalent Windows computers are.
 
